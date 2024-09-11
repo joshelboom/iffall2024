@@ -1,0 +1,79 @@
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 10px;
+  }
+
+  .centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 10px;
+  }
+
+
+
+  img {
+    border: 5px solid rgb(240, 248, 255);
+  }
+
+
+  body {
+
+    background-image: url(https://img.freepik.com/free-photo/dark-plaster-pattern_1194-7094.jpg);
+    
+    }
+
+  h1 {
+    color:aliceblue;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+   
+  }
+
+  h2 {
+    color:aliceblue;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+  }
+
+  p {
+    color:aliceblue;
+    font-family:'Courier New', Courier, monospace
+  }
+/*
+.background-img {
+    border-radius: 25px;
+    background-position: center;
+    padding: 20px;
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+}
+
+/*
+<img src="actual url" alt="Lightning McQueen">
+
+<a href="your-link-here">
+  <img id="rounded-img" src="your-image.jpg" alt="Your image description">
+</a>s
+*/
+
+/*
+p {
+    color: rgb(190, 18, 18); 
+    font-size: 24px;
+}
+
+
+#first{
+    border: 1px solid purple;
+}
+
+.highlight{
+    font-weight: bold;
+}
