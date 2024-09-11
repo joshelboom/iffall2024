@@ -1,0 +1,57 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 10px;
+  }
+
+  .centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 10px;
+  }
+
+
+
+  img {
+    border: 5px solid rgb(240, 248, 255);
+  }
+
+
+  body {
+
+    background-color: black
+    
+    }
+
+  h1 {
+    letter-spacing: 0.1em;
+    color:beige;
+    text-align: center;
+    font-family: 'Fast Lane'
+    
+  }
+
+  h2 {
+    letter-spacing: 0.1em;
+    font-size: 18px;
+    color: rgb(76, 121, 182);
+    text-align: center;
+    font-family:'Fast Lane'
+  }
+
+  p {
+    color:beige;
+    font-family: 'Rockwell'
+  }
+
+  .foot {
+    letter-spacing: 0.1em;
+    font-size: 10px;
+    color: rgb(76, 121, 182);
+    text-align: center;
+    font-family: 'Rockwell'
+  }
