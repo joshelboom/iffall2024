@@ -1,0 +1,110 @@
+body{
+    margin-left: 28%;
+    margin-top:5%;
+    margin-right: 28%;
+    line-height: 25pt;
+}
+
+section{
+    margin-bottom:48pt;
+}
+
+p{
+    margin-bottom:18pt;
+    margin-top:6.5pt;
+    color: black;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1vw;
+
+}
+
+html {
+    color: black;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1vw;
+  }
+
+h1{
+    font-size:2.5vw;
+    color:black;
+    margin-bottom:0.5pt;
+    font-weight: 900;
+}
+
+h2{
+    font-size:1.7vw;
+    color: crimson;
+}
+
+h3{
+    font-size: 1vw;
+    color: grey;
+    margin-bottom:0.5pt;
+}
+
+h4{
+    font-size: 1vw;
+    color: grey;
+    margin-bottom:40pt;
+    margin-top:20pt;
+    font-weight: 100; 
+}
+
+.p-intro{
+    color: black;
+    font-size: 1vw;
+}
+
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.pan-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+}
+
+li{
+    margin-bottom: 10pt;
+    /*display: block;*/
+}
+
+.external-research{
+    font-size: 1vw;
+}
+
+a{
+    color:darkblue;
+}
+
+.name{
+    font-weight: 900;
+    display: inline;
+    text-transform: capitalize;
+}
+
+.logistics{
+    color: navy;
+}
+
+.sauce-img{
+    width:70%;
+    transform: rotate(90deg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
